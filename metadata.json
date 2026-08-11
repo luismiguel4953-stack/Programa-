@@ -1,0 +1,6 @@
+{
+  "name": "CodeQuest",
+  "description": "Learn programming through 450+ gamified interactive levels, code challenges, and GitHub integration.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
